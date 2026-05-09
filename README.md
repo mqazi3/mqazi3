@@ -47,3 +47,5 @@ Building backend systems and cloud-deployed applications with modern API archite
 
 - LinkedIn: https://www.linkedin.com/in/muhammad-qazi-baa3a9142/
 - GitHub: https://github.com/mqazi3
+- FinFlow API: https://github.com/mqazi3/finflow-api
+- Discord Music Bot: https://github.com/mqazi3/discord-music-bot
