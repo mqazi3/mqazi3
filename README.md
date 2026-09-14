@@ -37,7 +37,7 @@ Asynchronous Python application for Discord audio playback, containerized with D
 
 ## Current Focus
 
-Building backend systems and cloud-deployed applications with modern API architecture and distributed infrastructure tooling.
+Building backend applications with REST APIs, relational databases, caching, containerization, and cloud deployment while expanding my experience with distributed systems and AI/ML.
 
 ---
 
