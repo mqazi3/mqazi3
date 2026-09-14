@@ -13,14 +13,11 @@ MS Computer Science graduate from Johns Hopkins University focused on backend so
 
 ## Technologies
 
-### Languages
-Python, Java, Go, C++, JavaScript, TypeScript, SQL, MATLAB, Assembly, VBA
+**Languages:** Python, Java, SQL, Go, C++, JavaScript, TypeScript, Assembly, VBA
 
-### Backend & Infrastructure
-FastAPI, PostgreSQL, Redis, SQLAlchemy, Docker, AWS ECS/Fargate, ECR, RDS, CloudWatch
+**Backend, Data & Cloud:** FastAPI, REST APIs, PostgreSQL, Redis, SQLAlchemy, JWT, Docker, AWS ECS/Fargate, RDS, ElastiCache, ECR, CloudWatch
 
-### Tools
-Git, Linux, OpenCV, CVAT, MySQL Workbench
+**Tools:** Git/GitHub, Linux, Agile/Scrum, CVAT, MySQL Workbench, Jupyter
 
 ---
 
