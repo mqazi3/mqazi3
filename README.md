@@ -24,13 +24,14 @@ MS Computer Science graduate from Johns Hopkins University focused on backend so
 ## Featured Projects
 
 ### FinFlow API
-Cloud-deployed financial transaction management backend built with FastAPI, PostgreSQL, Redis, Docker, and AWS ECS/Fargate.
+Cloud-deployed financial backend built with Python, FastAPI, PostgreSQL, Redis, Docker, and AWS ECS/Fargate.
+
+[View Repository](https://github.com/mqazi3/finflow-api)
 
 ### Discord Music Bot
-Containerized Discord audio streaming bot deployed to AWS ECS/Fargate with asynchronous command handling and CloudWatch monitoring.
+Asynchronous Python application for Discord audio playback, containerized with Docker and deployed using AWS ECS/Fargate.
 
-### Secure Messaging System
-RSA-based secure messaging implementation using Assembly and Linux low-level operations.
+[View Repository](https://github.com/mqazi3/discord-music-bot)
 
 ---
 
