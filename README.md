@@ -43,8 +43,6 @@ Building backend applications with REST APIs, relational databases, caching, con
 
 ## Links
 
-- LinkedIn: https://www.linkedin.com/in/muhammad-qazi-baa3a9142/
-- GitHub: https://github.com/mqazi3
-- FinFlow API: https://github.com/mqazi3/finflow-api
-- Discord Music Bot: https://github.com/mqazi3/discord-music-bot
-- RSA-Algorithm: https://github.com/ataneda1/RSA-Algorithm
+- [LinkedIn](https://www.linkedin.com/in/muhammadqazi1/)
+- [GitHub](https://github.com/mqazi3)
+- [FinFlow API](https://github.com/mqazi3/finflow-api)
