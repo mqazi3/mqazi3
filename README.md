@@ -1,6 +1,6 @@
 # Muhammad Qazi
 
-MS Computer Science student at Johns Hopkins University focused on backend software engineering, cloud infrastructure, distributed systems, and API development.
+MS Computer Science graduate from Johns Hopkins University focused on backend software engineering, cloud infrastructure, and API development.
 
 ## Technical Interests
 
