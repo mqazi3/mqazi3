@@ -6,10 +6,10 @@ MS Computer Science graduate from Johns Hopkins University focused on backend so
 
 - Backend Engineering
 - Cloud Infrastructure
-- Distributed Systems
 - API Development
+- Distributed Systems
 - Financial Technology
-- Containerized Deployments
+- AI/ML Systems
 
 ## Technologies
 
