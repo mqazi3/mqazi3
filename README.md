@@ -1,48 +1,26 @@
 # Muhammad Qazi
 
-MS Computer Science graduate from Johns Hopkins University focused on backend software engineering, cloud infrastructure, and API development.
+Backend-focused software engineer · MS Computer Science, Johns Hopkins University (2026) · Laurel, MD · U.S. Citizen
 
-## Technical Interests
+I build backend services in Python: REST APIs, relational databases, caching, automated testing, and containerized deployment on AWS. Before my MS, I spent two years at Morgan Stanley automating daily P&L reporting for the Fixed Income Rates desks.
 
-- Backend Engineering
-- Cloud Infrastructure
-- API Development
-- Distributed Systems
-- Financial Technology
-- AI/ML Systems
+## Projects
+
+### [FinFlow API](https://github.com/mqazi3/finflow-api)
+Financial transaction backend built with FastAPI, PostgreSQL, Redis, Docker, and AWS ECS/Fargate. 21 routes with JWT auth and user-scoped data, exact-decimal money handling, cached analytics, and a 47-test pytest suite running in GitHub Actions CI.
+
+### [Discord Music Bot](https://github.com/mqazi3/discord-music-bot)
+Asynchronous Python bot for voice-channel audio playback (discord.py, yt-dlp, FFmpeg), containerized and deployed on AWS ECS/Fargate. Used across 2 servers with 165+ members.
 
 ## Technologies
 
-**Languages:** Python, Java, SQL, Go, C++, JavaScript, TypeScript, Assembly, VBA
+**Languages:** Python, SQL, Java · familiar with C++, JavaScript/TypeScript, Go
+**Backend & Data:** FastAPI, SQLAlchemy, Alembic, Pydantic, PostgreSQL, MySQL, Redis, JWT
+**Testing & DevOps:** pytest, GitHub Actions, Docker, Docker Compose, Git, Linux
+**Cloud:** AWS ECS/Fargate, ECR, RDS, ElastiCache, CloudWatch, EC2, S3
 
-**Backend, Data & Cloud:** FastAPI, REST APIs, PostgreSQL, Redis, SQLAlchemy, JWT, Docker, AWS ECS/Fargate, RDS, ElastiCache, ECR, CloudWatch
+## Currently
 
-**Tools:** Git/GitHub, Linux, Agile/Scrum, CVAT, MySQL Workbench, Jupyter
+Open to backend and full-stack software engineering roles.
 
----
-
-## Featured Projects
-
-### FinFlow API
-Cloud-deployed financial backend built with Python, FastAPI, PostgreSQL, Redis, Docker, and AWS ECS/Fargate.
-
-[View Repository](https://github.com/mqazi3/finflow-api)
-
-### Discord Music Bot
-Asynchronous Python application for Discord audio playback, containerized with Docker and deployed using AWS ECS/Fargate.
-
-[View Repository](https://github.com/mqazi3/discord-music-bot)
-
----
-
-## Current Focus
-
-Building backend applications with REST APIs, relational databases, caching, containerization, and cloud deployment while expanding my experience with distributed systems and AI/ML.
-
----
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/muhammadqazi1/)
-- [GitHub](https://github.com/mqazi3)
-- [FinFlow API](https://github.com/mqazi3/finflow-api)
+[LinkedIn](https://www.linkedin.com/in/muhammadqazi1/)
