@@ -15,8 +15,11 @@ Asynchronous Python bot for voice-channel audio playback (discord.py, yt-dlp, FF
 ## Technologies
 
 **Languages:** Python, SQL, Java · familiar with C++, JavaScript/TypeScript, Go
+
 **Backend & Data:** FastAPI, SQLAlchemy, Alembic, Pydantic, PostgreSQL, MySQL, Redis, JWT
+
 **Testing & DevOps:** pytest, GitHub Actions, Docker, Docker Compose, Git, Linux
+
 **Cloud:** AWS ECS/Fargate, ECR, RDS, ElastiCache, CloudWatch, EC2, S3
 
 ## Currently
