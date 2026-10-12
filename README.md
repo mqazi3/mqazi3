@@ -1,6 +1,6 @@
 # Muhammad Qazi
 
-Backend software engineer · MS Computer Science, Johns Hopkins University (2026) · Laurel, MD · U.S. Citizen
+MS Computer Science, Johns Hopkins University (2026) · Laurel, MD · U.S. Citizen
 
 I build backend services in Python: REST APIs, PostgreSQL, Redis, background workers, automated testing, and deployment on AWS. Before my MS, I spent two years at Morgan Stanley automating daily P&L reporting for the Fixed Income Rates desks.
 
