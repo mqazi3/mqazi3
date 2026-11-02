@@ -13,7 +13,7 @@ Question-answering API over long documents. Hybrid search (pgvector + Postgres f
 Financial transaction backend: FastAPI, PostgreSQL, Redis, Docker. 21 routes with JWT auth and user-scoped data, exact-decimal money, SQL-aggregate analytics with cache invalidation, Alembic migrations, and a 47-test pytest suite in GitHub Actions. Previously deployed on AWS ECS/Fargate with RDS and ElastiCache.
 
 ### [Discord Music Bot](https://github.com/mqazi3/discord-music-bot)
-Asynchronous Python bot for voice-channel audio playback (discord.py, yt-dlp, FFmpeg). Used across 2 servers with 165+ members; previously deployed on AWS ECS/Fargate.
+Asynchronous Python bot for voice-channel audio playback (discord.py, yt-dlp, FFmpeg). Used across 2 servers with 180+ members; previously deployed on AWS ECS/Fargate.
 
 ## Skills
 
